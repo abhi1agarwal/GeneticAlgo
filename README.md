@@ -34,9 +34,6 @@ In order to perform test-suite reduction, we should do something includes:
 
 • Maintaining a testing pool where contains all the test cases used in previous test
 activities.
-
-4
-
 • Keeping the test coverage information which denotes how many and which parts of
 the program tested by each test cases during the previous tests.
 • Recording the test-execution cost information that measures the amount of resources
